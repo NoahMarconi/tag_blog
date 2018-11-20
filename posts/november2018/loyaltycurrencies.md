@@ -47,7 +47,9 @@ _Image Source: [Slava Balasanov; Bonding Curves for Continuous Token Models](htt
 
 The more tokens issued, the higher the price per token. In a sense, this model is a hybrid approach with elements of both the **Floating** and the **Pegged** value models.
 
-**Advice:** Be aware
+**Advice 1:** Consider this model as a means of rewarding the earliest program members and partners.
+
+**Advice 2:** Although formula based, and therefore less than fixed, the peg is still tied to a fixed formula. Changes further down the road are not an easy sell; be certain the formula chosen is appropriate for the long term.
 
 
 ## Piloting or launching a new program?
