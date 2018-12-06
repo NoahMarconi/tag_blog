@@ -56,3 +56,12 @@ These techniques are particularly useful for making proper use of data on and of
   - [Merkle Air-Drops: Make Love, Not War](https://blog.ricmoo.com/merkle-air-drops-e6406945584d)
 
 ## Meta Transactions
+
+  - [Ethereum Meta Transactions](https://medium.com/@austin_48503/ethereum-meta-transactions-90ccf0859e84)
+  - [Gasless or Meta Transactions](https://medium.com/coinmonks/gasless-transactions-f75382095c4f)
+  - [Native Meta Transactions](https://medium.com/gitcoin/native-meta-transactions-e509d91a8482)
+  - [Meta Transactions - Noah Marconi](https://github.com/NoahMarconi/metatransactions/tree/master/presentations)
+
+## One Time Addresses
+
+  - [How to send Ether to 11,440 people](https://medium.com/@weka/how-to-send-ether-to-11-440-people-187e332566b7)
