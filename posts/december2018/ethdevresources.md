@@ -32,6 +32,9 @@ LLL and the Qtum blog series are helpful in learning how the EVM differs from ot
   - [Diving Into The Ethereum VM Part 5 — The Smart Contract Creation Process](https://medium.com/@hayeah/diving-into-the-ethereum-vm-part-5-the-smart-contract-creation-process-cb7b6133b855)
   - [How Solidity Events Are Implemented — Diving Into The Ethereum VM Part 6](https://blog.qtum.org/how-solidity-events-are-implemented-diving-into-the-ethereum-vm-part-6-30e07b3037b9)
 
+### Ethdebug
+
+  - [Data Representation in Solidity](https://ethdebug.github.io/solidity-data-representation/)  
 
 ## Security and Best Practices
 
